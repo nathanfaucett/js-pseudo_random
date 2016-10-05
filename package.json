@@ -1,6 +1,6 @@
 {
   "name": "@nathanfaucett/pseudo_random",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "pseudo random number generator",
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "@nathanfaucett/task": "^0.0.5",
+    "@nathanfaucett/task": "^0.0.7",
     "gulp-jsbeautifier": "^2.0.3",
     "gulp-jshint": "^2.0.1",
     "jshint": "^2.9.3",
